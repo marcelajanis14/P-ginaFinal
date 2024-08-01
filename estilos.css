@@ -12,7 +12,82 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
-    background-repeat: no-repeat;
+    background-image: url("web3.jpg");
+  
 
 }
+
+.imp{  
+height:300px;
+width: 600px;
+background-image: url("descarga\ \(1\).jfif");
+
+background-repeat: no-repeat;
+float: left;
+}
+
+.titulo{
+
+    font-size: 75px;
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.suge{
+
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img1{
+    
+    float: left;
+    background-repeat: no-repeat;
+    height: 376px;
+    width: 375px;
+    background-image: url("ciclo.jpeg")
+    
+
+}
+
+
+ .imp1{
+    float: left;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 580px;
+    background-image: url("ovulacion.jpg");
+ }
+.imp2{
+    float: left;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 800px;
+    background-image: url("fase1.png");
+
+}
+.img5{
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 800px;
+    background-image: url("flujo.jpeg");
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
