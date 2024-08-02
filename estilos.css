@@ -79,11 +79,58 @@ float: left;
 
 }
 
+.m1{
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1000px;
+    background-image: url("polinomios.jpgs");
 
 
 
+}
+.m2{
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1000px;
+    background-image: url("suma1.png");
 
 
+
+}
+
+.m3{
+
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1000px;
+    background-image: url("rest2.png");
+
+}
+.m4{
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1000px;
+    background-image: url("rest3.png");
+
+}
+
+.mm2{
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1000px;
+    background-image: url("man.jpg");
+
+
+}
+.mm3{
+
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1000px;
+    background-image: url("bulimia.png");
+
+
+}
 
 
 
