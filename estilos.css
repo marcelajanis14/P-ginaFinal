@@ -396,3 +396,36 @@ float: left;
 
 
 }
+.k1{
+    background-repeat: no-repeat;
+    height: 1300px;
+    width: 1300px;
+    background-image: url("a.png")
+  
+
+}
+
+.k2{
+    background-repeat: no-repeat;
+    height: 1300px;
+    width: 1300px;
+    background-image: url("cubu.jpg")
+  
+
+}
+.k3{
+    background-repeat: no-repeat;
+    height: 1300px;
+    width: 1300px;
+    background-image: url("multi.png")
+  
+
+}
+
+.k4{
+    background-repeat: no-repeat;
+    height: 1300px;
+    width: 1300px;
+    background-image: url("3.png")
+   
+}
